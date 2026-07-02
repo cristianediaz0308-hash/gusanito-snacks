@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Build
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Verdent workspace files (not needed for the site)
+verdent-design/stage1/
+verdent-design/stage3/
+verdent-design/edit_*
+verdent-design/generate_*
+assets/
+src/
+public/
+package.json
+tsconfig*.json
+vite.config.ts
+README.md
